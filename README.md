@@ -55,3 +55,5 @@ Charts will be saved automatically in the project folder.
 - Python 3
 - Pandas
 - Matplotlib
+## Project
+https://roadmap.sh/projects/pharmaceutical-sales-data
